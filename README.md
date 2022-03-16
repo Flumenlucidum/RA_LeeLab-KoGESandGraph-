@@ -16,4 +16,6 @@ A genome-wide association study on Korean Genome and Epidemiology Study (KoGES, 
 
 Small projects in Data Science Capstone Project course in Fall semester 2020
 (with Yoobin and Wonyoung)
+The aim was to find pheotype which directly affects breast cancer.
+
 
