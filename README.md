@@ -18,4 +18,8 @@ Small projects in Data Science Capstone Project course in Fall semester 2020
 (with Yoobin and Wonyoung)
 The aim was to find pheotype which directly affects breast cancer.
 
-
+<div>
+          <p align="left">
+          <img width = "400" height = "350" src = "https://github.com/Flumenlucidum/RA_LeeLab-KoGESandGraph-/blob/main/CausalGraph/Network_all_pc2.jpeg">
+          <img width = "400" height = "350" src = "https://github.com/Flumenlucidum/RA_LeeLab-KoGESandGraph-/blob/main/CausalGraph/Network_male_pc2.jpeg">
+</div>
