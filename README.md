@@ -10,7 +10,11 @@ https://www.medrxiv.org/content/10.1101/2022.02.23.22271389v1
 <br />
 <br />
 Results: https://koges.leelabsg.org/  <br/><br/>
-A genome-wide association study on Korean Genome and Epidemiology Study (KoGES, n=72,298). I participated in analyses of binary biomarkers (diseases, SAIGE), categorical variables (POLMM), survival analysis (SPACox), and meta-analysis of KoGES and Biobank Japan (BBJ)
+A genome-wide association study on Korean Genome and Epidemiology Study (KoGES, n=72,298). I participated in analyses of binary biomarkers (diseases, SAIGE), categorical variables (POLMM), survival analysis (SPACox), and meta-analysis of KoGES and Biobank Japan (BBJ) <br/>
+
+SAIGE: https://github.com/weizhouUMICH/SAIGE <br/>
+POLMM: https://github.com/WenjianBI/POLMM <br/>
+SPACox: https://github.com/WenjianBI/SPACox <br/>
 
 ### 2. Causal graph analysis on breast cancer
 
